@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/seller_shop_navigation"
+        android:icon="@drawable/shop_navigation"
+        android:title="Shop Listings"/>
+
+    <item
+        android:id="@+id/seller_product_list"
+        android:icon="@drawable/list_products_navigation"
+        android:title="Product List"/>
+
+    <item
+        android:id="@+id/seller_profile"
+        android:icon="@drawable/profile_navigation"
+        android:title="Profile"/>
+
+
+</menu>
